@@ -1,0 +1,9 @@
+{
+  "name": "GarçaServ",
+  "short_name": "GarçaServ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#0d2b3a",
+  "description": "Marketplace local de serviços em Garça-SP."
+}
